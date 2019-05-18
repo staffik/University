@@ -1,4 +1,4 @@
-# Checkers
+# Checkers - 2015
 Checkers game with simple AI.
 
 
