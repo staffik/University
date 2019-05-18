@@ -1,4 +1,4 @@
-# hilbert3d-drawer  
+# hilbert3d-drawer - 2016
 
 
 Program generates PostScript file containing perspective view of the Hilbert curve.  
